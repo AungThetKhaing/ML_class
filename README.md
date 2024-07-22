@@ -1,5 +1,6 @@
 ### ML_class Test Env
 #### git commands
-'''bash
+```bash
 git clone https://github.com/AungThetKhaing/ML_class.git
-'''
+
+```
